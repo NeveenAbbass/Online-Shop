@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "password": "12345",
+      "name": "mai",
+      "email": "Aya@gm.com",
+      "phoneno": "294dferrfe8",
+      "address": "123 3rd s7980"
+    },
+    {
+      "id": "5",
+      "password": "12345",
+      "name": "eman",
+      "email": "Aya@gm.com",
+      "phoneno": "294dferrfe8",
+      "address": "123 3rd s7980"
+    },
+    {
+      "id": "97da",
+      "password": "12345",
+      "name": "neveen",
+      "email": "neveen@gmail.com",
+      "address": "123stgud"
+    }
+  ],
+  "admins": [
+    {
+      "id": "2",
+      "name": "sama",
+      "password": "12345",
+      "email": "sama@gm.com",
+      "phoneno": "294dferrfe8",
+      "address": "123 3rd s7980"
+    },
+    {
+      "id": "3",
+      "password": "12345",
+      "name": "fatma",
+      "email": "fatma@gm.com",
+      "phoneno": "294dferrfe8",
+      "address": "123 3rd s7980"
+    },
+    {
+      "id": "5",
+      "password": "12345",
+      "name": "ward",
+      "email": "ward@gm.com",
+      "phoneno": "294dferrfe8",
+      "address": "123 3rd s7980"
+    },
+    {
+      "id": "97da",
+      "password": "12345",
+      "name": "rawda",
+      "email": "rawda@gmail.com",
+      "address": "123stgud"
+    },
+    {
+      "id": "a9df",
+      "name": "lara",
+      "email": "lara@g.com",
+      "address": "123stgud",
+      "password": "12345"
+    }
+  ],
+  "products": [
+    {
+      "code": "6",
+      "name": "nail serum",
+      "price": "20LE",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "id": "0672"
+    },
+    {
+      "code": "6",
+      "name": "hair serum",
+      "price": "20LE",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "id": "0672"
+    },
+    {
+      "code": "6",
+      "name": "face serum",
+      "price": "20LE",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "id": "0672"
+    },
+    {
+      "code": "6",
+      "name": "body serum",
+      "price": "20LE",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "id": "0672"
+    },
+    {
+      "id": "2677",
+      "code": "12",
+      "name": "lip balm",
+      "price": "30",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    },
+    {
+      "id": "46d6",
+      "code": "13",
+      "name": "body lotion",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "f3cb",
+      "code": "13",
+      "name": "lara sunscree",
+      "price": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    },
+    {
+      "id": "5465",
+      "code": "12",
+      "name": "nail serum upgraded",
+      "price": "50",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    },
+    {
+      "id": "2617",
+      "code": "12",
+      "name": "face serum",
+      "price": "30",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    }
+  ]
+}
